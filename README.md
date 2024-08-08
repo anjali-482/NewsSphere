@@ -1,7 +1,7 @@
 # NewsSphere 
 
 ## Description
-Dynamic news website displaying filtered articles with images, search functionality, and responsive design using HTML, CSS, and JavaScript.
+A dynamic news website displaying filtered articles with images, search functionality, and responsive design using HTML, CSS, and JavaScript.
 
 ## Features
 - View news articles filtered by categories (e.g., IPL, Finance, Politics)
